@@ -81,8 +81,8 @@ X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
 y_test_tensor = torch.tensor(y_test, dtype=torch.float32).view(-1, 1)
 ```
 ```PY
-# NAME : CH.V.S.DINESH KUMAR
-# REG NO: 212224040055
+# NAME : SARAVANAN SHAM PRAKASH
+# REG NO: 212224230254
 
 
 class NeuralNet(nn.Module):
