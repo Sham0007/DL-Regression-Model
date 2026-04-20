@@ -42,9 +42,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: CHITLURU VENKATA SIVA DINESH KUMAR
+### Name: SARAVANAN SHAM PRAKASH
 
-### Register Number: 212224040055
+### Register Number: 212224230254
 
 ```python
 from google.colab import drive
