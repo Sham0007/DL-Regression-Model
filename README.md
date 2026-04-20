@@ -144,18 +144,18 @@ print(f'Prediction: {prediction}')
 
 
 ### Dataset Information
-<img width="283" height="596" alt="image" src="https://github.com/user-attachments/assets/3dbf3e51-c2dc-4354-8c8a-8384be40e4fb" />
+<img width="342" height="558" alt="image" src="https://github.com/user-attachments/assets/00ff557f-5e4b-41af-b0cd-03a34711f511" />
 
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
+<img width="471" height="275" alt="image" src="https://github.com/user-attachments/assets/b65dbd3f-6333-4a20-809a-5405e333209a" />
 
-<img width="413" height="241" alt="image" src="https://github.com/user-attachments/assets/3031ac0b-cbd1-44dd-8a7c-25a023786823" />
+<img width="804" height="655" alt="image" src="https://github.com/user-attachments/assets/a419aab2-b2cc-4cb2-862e-a3574505a520" />
 
-<img width="853" height="582" alt="image" src="https://github.com/user-attachments/assets/f25ea5c5-1e6a-4027-8871-07f99c0e31ec" />
 
 ### New Sample Data Prediction
-<img width="381" height="46" alt="image" src="https://github.com/user-attachments/assets/17f914f3-cb9a-4a8e-bbf2-3603de63e75d" />
+<img width="395" height="45" alt="image" src="https://github.com/user-attachments/assets/3a4f1dfd-1450-45b9-8887-980ee9e940ac" />
 
 
 ## RESULT
